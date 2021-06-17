@@ -1,0 +1,72 @@
+header{
+    background: url('../image/product.jpeg');
+    min-height: 630px;
+    background-size: cover;
+}
+.bg-color{
+    background-color: rgba(116,255,51, 0.20);
+    min-height: 630px;
+}
+#menuProcline{
+    font-family: 'Baloo Da 2', cursive;
+    font-size: 30px;
+}
+.logo-name{
+    margin-top: 300px;
+    color: rgb(32, 100, 117);
+    font-size: 80px;
+    font-family: 'Baloo Da 2', cursive;
+}
+.slogan{
+    font-family: 'Patrick Hand', cursive;
+    color: black;
+}
+.subtitulo{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+    color: black;
+}
+
+.head-des{
+    font-family: 'Baloo Da 2', cursive;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.body-des{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.titulo-texto{
+    font-family: 'Baloo Da 2', cursive;
+}
+.tarjeta-texto{
+    font-family: 'Rajdhani', sans-serif;
+}
+.rojito{
+    color:rgb(21, 65, 114);
+}
+.head-prom{
+    font-family: 'Baloo Da 2', cursive;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+footer{
+    background:rgb(21, 65, 114) ;
+    height: auto;
+    width: 100vw;
+    font-family: 'Baloo Da 2', cursive;
+    padding-top: 40x;
+    color: #fff;
+    margin-top:50px ;
+}
+.footer-bottom p{
+    font-size: 14 px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity: 0.4;
+    font-weight: 200;
+}
